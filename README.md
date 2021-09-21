@@ -64,4 +64,4 @@ Permissions to add in commands to check them that it is available or not
 
 
 ## Run the project
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/anonymouseJoke/giveaway) [![Run on Repl.it](https://repl.it/badge/github/anonymouseJoke/giveaway)](https://repl.it/github/anonymouseJoke/giveaway) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anonymouseJoke/giveaway)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/anonymouseJoke/anti-youtube) [![Run on Repl.it](https://repl.it/badge/github/anonymouseJoke/anti-youtube)](https://repl.it/github/anonymouseJoke/anti-youtube) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anonymouseJoke/anti-youtube)
