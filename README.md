@@ -19,3 +19,5 @@
 ## 📝 [Support Server](https://discord.gg/5zKev8cbq5)
 
 If you have major coding issues with this bot, please join and ask for help.
+
+## 💨 Run the projects
