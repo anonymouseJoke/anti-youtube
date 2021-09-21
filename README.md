@@ -21,7 +21,7 @@
 If you have major coding issues with this bot, please join and ask for help.
 
 ## 💨 Run the projects
-**Run** node index.js
+**Run** node index.js|
 **language** NodeJS
 
 ## Permissions😤
